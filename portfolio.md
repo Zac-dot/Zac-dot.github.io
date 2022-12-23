@@ -17,7 +17,7 @@ Each of these projects are viewable (along with source code) on my GitHub page. 
 ![Pianotoy]({{site.baseurl}}/assets/images/pianotoy.jpg)
 
 Viewable at: [Zac-dot/Pianotoy](https://https://github.com/Zac-dot/Pianotoy)
-Tech used: C++, GTK 4
+Tech used: C++, GTK 4<br>
 Time to make: 2 weeks
 Learned:
 - Using GTK 4 Framework in conjunction with C++ code
