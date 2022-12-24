@@ -16,9 +16,9 @@ Each of these projects are viewable (along with source code) on my GitHub page. 
 
 ![Pianotoy]({{site.baseurl}}/assets/images/pianotoy.jpg)
 
-Viewable at: [Zac-dot/Pianotoy](https://https://github.com/Zac-dot/Pianotoy)
+Viewable at: [Zac-dot/Pianotoy](https://https://github.com/Zac-dot/Pianotoy) <br>
 Tech used: C++, GTK 4<br>
-Time to make: 2 weeks
+Time to make: 2 weeks<br>
 Learned:
 - Using GTK 4 Framework in conjunction with C++ code
 - How to make a GUI application in C++
@@ -34,9 +34,9 @@ The program was also used as a final project for my C++ class, specifically CS 3
 
 ![Phase3Repo]({{site.baseurl}}/assets/images/phase3repo.jpg)
 
-Viewable at: [Zac-dot/Phase3Repo](https://https://github.com/Zac-dot/Phase3Repo)
-Tech used: Java, JavaFX, MySQL Database, Git
-Time to make: 2 weeks
+Viewable at: [Zac-dot/Phase3Repo](https://https://github.com/Zac-dot/Phase3Repo) <br>
+Tech used: Java, JavaFX, MySQL Database, Git<br>
+Time to make: 2 weeks<br>
 Learned:
 - How to make multiple scenes in JavaFX and query data with Text Fields, Grids, and more
 - Using DBConnector with a MySQL database to save, edit, query, and pull information from tables.
@@ -52,9 +52,9 @@ One caveat of the project was that JavaFX and the code used in Java had problems
 
 ![Letsguess-project]({{site.baseurl}}/assets/images/letsguess.jpg)
 
-Viewable at: [Zac-dot/Letsguess-project](https://github.com/Zac-dot/Letsguess-project)
-Tech used: Java
-Time to make: 1 week
+Viewable at: [Zac-dot/Letsguess-project](https://github.com/Zac-dot/Letsguess-project) <br>
+Tech used: Java<br>
+Time to make: 1 week<br>
 Learned:
 - The basics of Java and displaying them in the source code.
 - Displaying of information and handling human enter information
@@ -68,9 +68,9 @@ This program is supposed to be a simple game about guessing numbers. You select 
 
 ![pyGuesser]({{site.baseurl}}/assets/images/pyguesser.jpg)
 
-Viewable at: [Zac-dot/pyGuesser](https://github.com/Zac-dot/pyGuesser)
-Tech used: Python
-Time to make: 3 days
+Viewable at: [Zac-dot/pyGuesser](https://github.com/Zac-dot/pyGuesser) <br>
+Tech used: Python<br>
+Time to make: 3 days<br>
 Learned:
 - The basics of python syntax and displaying them in the source code
 - Translating Java code into Python code (This is based on Letsguess-project)
