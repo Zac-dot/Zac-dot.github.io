@@ -3,13 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Hey!
 
-Some information about you!
+Hey there, I'm Xander Thompson!
 
-### More Information
+Here's a few things about me:
+- I'm a 4th year Computer Science Student
+- Big fan of technology, specially older technology
+- Recently I've been exploring GUIs with C++
+- Know Java, C++, and Python basics
+- Really into rhythm games, specifically Groove Coaster
+- Also likes playing video games, reading long articles, walks at midnight and more.
 
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to contact me via the links here or in my contact information
 
 ### Contact me
 
-[pushing.status232@zant.anonaddy.com](mailto:pushing.status232@zant.anonaddy.com)
+[Email](mailto:pushing.status232@zant.anonaddy.com)
+[GitHub Page](https://github.com/Zac-dot)
+
