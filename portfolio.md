@@ -16,7 +16,7 @@ Each of these projects are viewable (along with source code) on my GitHub page. 
 
 ![Pianotoy]({{site.baseurl}}/assets/images/pianotoy.jpg)
 
-Viewable at: [Zac-dot/Pianotoy](https://https://github.com/Zac-dot/Pianotoy) <br>
+Viewable at: [Zac-dot/Pianotoy](https://github.com/Zac-dot/Pianotoy) <br>
 Tech used: C++, GTK 4<br>
 Time to make: 2 weeks<br>
 Learned:
@@ -34,7 +34,7 @@ The program was also used as a final project for my C++ class, specifically CS 3
 
 ![Phase3Repo]({{site.baseurl}}/assets/images/phase3repo.jpg)
 
-Viewable at: [Zac-dot/Phase3Repo](https://https://github.com/Zac-dot/Phase3Repo) <br>
+Viewable at: [Zac-dot/Phase3Repo](https://github.com/Zac-dot/Phase3Repo) <br>
 Tech used: Java, JavaFX, MySQL Database, Git<br>
 Time to make: 2 weeks<br>
 Learned:
@@ -52,7 +52,7 @@ One caveat of the project was that JavaFX and the code used in Java had problems
 
 ![Letsguess-project]({{site.baseurl}}/assets/images/letsguess.jpg)
 
-Viewable at: [Zac-dot/Letsguess-project](https://github.com/Zac-dot/Letsguess-project) <br>
+Viewable at: [Zac-dot/Letsguess-project](github.com/Zac-dot/Letsguess-project) <br>
 Tech used: Java<br>
 Time to make: 1 week<br>
 Learned:
