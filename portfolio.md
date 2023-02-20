@@ -46,7 +46,7 @@ Learned:
 
 Description: **This was a group project with another person.** The goal of the application was to create a demo that an accounting firm might use for its internal bookkeeping, using a MySQL database in the background to keep information, with a GUI made using JavaFX and Java. In this example, the application is called T&E Accounting, taking the initial from each group projects last name. There are 2 different login screens, one for admins and another for users (or clients in this example), each displaying information on orders made, as well as making a new order or talking to a client through a command prompt.
 
-One caveat of the project was that JavaFX and the code used in Java had problems when it came to displaying some information in the UI. Specifically, on the order screens for both, JavaFX would through an error about a null value and fail to populate the screen, however, the information would be in the database and as a workaround, the information is displayed to the console in case a user would like to see or know about the information.s
+One caveat of the project was that JavaFX and the code used in Java had problems when it came to displaying some information in the UI. Specifically, on the order screens for both, JavaFX would through an error about a null value and fail to populate the screen, however, the information would be in the database and as a workaround, the information is displayed to the console in case a user would like to see or know about the information.
 
 ### Letsguess-project
 
