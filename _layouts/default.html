@@ -26,9 +26,6 @@
       content="#111111"
       media="(prefers-color-scheme: light)"
     />
-    {% seo %} {% feed_meta %} {%- if jekyll.environment == 'production' and
-    site.google_analytics -%} {%- include google-analytics.html -%} {%- endif
-    -%}
     <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -36,6 +33,17 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "fwxdexdxp7");
 </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K6JV6NSH9E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K6JV6NSH9E');
+</script>
+
   </head>
   <body class="d-flex flex-column h-100">
     <div class="container">
