@@ -6,7 +6,6 @@ title: This post demonstrates post content styles
 # A page demonstrating Markdown stuff
 Lorem ipsum dolor sit amet, **BOLD** adipiscing elit. Fusce bibendum neque eget nunc mattis eu _ITALICS_ enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-![]({{site.baseurl}}/assets/images/example.jpg)
 <img src="{{site.baseurl}}/assets/images/example.jpg" width="500" height="500" >
 
 Here's a sentence with a footnote. [^1]
