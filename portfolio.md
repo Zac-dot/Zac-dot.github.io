@@ -73,7 +73,7 @@ This program is supposed to be a simple game about guessing numbers. You select 
 ### pyGuesser
 
 <p align="center">
-  <img src="{site.baseurl}}/assets/images/pyguesser.jpg" />
+  <img src="{{site.baseurl}}/assets/images/pyguesser.jpg" />
 </p>
 
 Viewable at: [Zac-dot/pyGuesser](https://github.com/Zac-dot/pyGuesser) <br>
