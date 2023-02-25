@@ -15,10 +15,10 @@ lightavatar: /assets/images/Logo.png
 darkavatar: /assets/images/Logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs)
-tagline: A blog of Xander Thompson, or Zac-dot, that talks about all sorts of things.
+tagline: Blog of Xander T
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: A blog of Xander Thompson that talks about technology, life, and other aspects.
+description: A blog of Xander Thompson that talks about tech
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url:
