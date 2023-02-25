@@ -14,7 +14,9 @@ Each of these projects are viewable (along with source code) on my GitHub page. 
 
 ### Pianotoy
 
-![Pianotoy]({{site.baseurl}}/assets/images/pianotoy.jpg)
+<p align="center">
+	<img src="{{site.baseurl}}/assets/images/pianotoy.jpg" />
+</p>
 
 Viewable at: [Zac-dot/Pianotoy](https://github.com/Zac-dot/Pianotoy) <br>
 Tech used: C++, GTK 4<br>
@@ -32,7 +34,9 @@ The program was also used as a final project for my C++ class, specifically CS 3
 
 ### Phase3Repo
 
-![Phase3Repo]({{site.baseurl}}/assets/images/phase3repo.jpg)
+<p align="center">
+  <img src="{{site.baseurl}}/assets/images/phase3repo.jpg" />
+</p>
 
 Viewable at: [Zac-dot/Phase3Repo](https://github.com/Zac-dot/Phase3Repo) <br>
 Tech used: Java, JavaFX, MySQL Database, Git<br>
@@ -50,7 +54,9 @@ One caveat of the project was that JavaFX and the code used in Java had problems
 
 ### Letsguess-project
 
-![Letsguess-project]({{site.baseurl}}/assets/images/letsguess.jpg)
+<p align="center">
+  <img src="{{site.baseurl}}/assets/images/letsguess.jpg" />
+</p>
 
 Viewable at: [Zac-dot/Letsguess-project](github.com/Zac-dot/Letsguess-project) <br>
 Tech used: Java<br>
@@ -66,7 +72,9 @@ This program is supposed to be a simple game about guessing numbers. You select 
 
 ### pyGuesser
 
-![pyGuesser]({{site.baseurl}}/assets/images/pyguesser.jpg)
+<p align="center">
+  <img src="{site.baseurl}}/assets/images/pyguesser.jpg" />
+</p>
 
 Viewable at: [Zac-dot/pyGuesser](https://github.com/Zac-dot/pyGuesser) <br>
 Tech used: Python<br>
