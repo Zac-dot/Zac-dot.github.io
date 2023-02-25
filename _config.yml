@@ -10,9 +10,9 @@ title: Zac-dot
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/light_bauhaus_logo.png
+lightavatar: /assets/images/Logo.png
 # Avatar for dark mode site
-darkavatar: /assets/images/dark_bauhaus_logo.png
+darkavatar: /assets/images/Logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs)
 tagline: A blog of Xander Thompson, or Zac-dot, that talks about all sorts of things.
