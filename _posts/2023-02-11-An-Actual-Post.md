@@ -2,7 +2,7 @@
 aliases: postFeb112023
 tags: updates
 layout: post
-title: Update: Will try and post things soon
+title: Will try and post things soon
 
 date created: Saturday, February 11, 2023
 date modified: Saturday, February 11, 2023
