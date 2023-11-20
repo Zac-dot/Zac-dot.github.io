@@ -15,7 +15,7 @@ Each of these projects are viewable (along with source code) on my GitHub page. 
 ### Pianotoy
 
 <p align="center">
-	<img src="{{site.baseurl}}/assets/images/pianotoy.jpg" />
+	<img src="{{site.baseurl}}/assets/images/portfolio/pianotoy.jpg" style="border-radius:4px"/>
 </p>
 
 Viewable at: [Zac-dot/Pianotoy](https://github.com/Zac-dot/Pianotoy) <br>
@@ -35,7 +35,7 @@ The program was also used as a final project for my C++ class, specifically CS 3
 ### Phase3Repo
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/images/phase3repo.jpg" />
+  <img src="{{site.baseurl}}/assets/images/portfolio/phase3repo.jpg" style="border-radius:4px"/>
 </p>
 
 Viewable at: [Zac-dot/Phase3Repo](https://github.com/Zac-dot/Phase3Repo) <br>
@@ -55,7 +55,7 @@ One caveat of the project was that JavaFX and the code used in Java had problems
 ### Letsguess-project
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/images/letsguess.jpg" />
+  <img src="{{site.baseurl}}/assets/images/portfolio/letsguess.jpg" style="border-radius:4px"/>
 </p>
 
 Viewable at: [Zac-dot/Letsguess-project](github.com/Zac-dot/Letsguess-project) <br>
@@ -73,7 +73,7 @@ This program is supposed to be a simple game about guessing numbers. You select 
 ### pyGuesser
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/images/pyguesser.jpg" />
+  <img src="{{site.baseurl}}/assets/images/portfolio/pyguesser.jpg" style="border-radius:4px"/>
 </p>
 
 Viewable at: [Zac-dot/pyGuesser](https://github.com/Zac-dot/pyGuesser) <br>

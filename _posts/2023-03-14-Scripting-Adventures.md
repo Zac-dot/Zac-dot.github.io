@@ -2,8 +2,8 @@
 tags: PowerShell AutoHotkey Coding
 layout: post
 title: Scripting Adventures
-date created: Tuesday, March 14th 2023, 4:46:00 pm
-date modified: Tuesday, March 14th 2023, 6:23:30 pm
+date created: March 14th 2023
+date modified: March 14th 2023
 ---
 
 > Yeah to note, this does have some experiences tied in with each thing
