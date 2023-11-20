@@ -21,7 +21,7 @@ tagline: Blog of Xander T
 description: A blog of Xander Thompson that talks about tech
 
 # The full URL to your site. Note: site.github.url will be used by default.
-url:
+url: https://www.zacdot.dev
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -39,12 +39,12 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: pushing.status232@zant.anonaddy.com
+  email: 
   facebook:
   github: Zac-dot
   instagram:
   linkedin:
-  rss: # just type anything here for a working RSS icon
+  rss: lol # just type anything here for a working RSS icon
   twitter:
 
 plugins:
