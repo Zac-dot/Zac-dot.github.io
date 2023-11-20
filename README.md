@@ -1,5 +1,7 @@
 # Zac-dot Blog Files
 
+[![pages-build-deployment](https://github.com/Zac-dot/Zac-dot.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Zac-dot/Zac-dot.github.io/actions/workflows/pages/pages-build-deployment)
+
 This repo contains the files for the GitHub Pages site of Zac-dot.
 
 ## Introduction
